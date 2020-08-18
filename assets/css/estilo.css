@@ -1,3 +1,15 @@
+@charset 'utf-8';
+
+/* 
+*   estilo.css
+*   versão: 1.0.0
+*   data:   2019-09-21
+*   autor:  Fernando Angelo
+*   email:  nandoangelo@gmail.com
+*
+*/
+
+/* Reset padrão */
 * {
   margin: 0;
   padding: 0; 
