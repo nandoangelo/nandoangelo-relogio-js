@@ -28,29 +28,37 @@ body {
   text-align: center;
   color: #fff;
 }
+
+/** 
+  DEFININDO OS TEMAS
+  --------------------------------------------- */
+/* Tema usado para desejar BOM DIA */
 .manha {
   background-image: linear-gradient(to bottom, 
                     rgba(0, 168, 232, 0.8),
                     rgba(0,0,0, 0.6)),
-                    url('assets/img/bg-manha.jpg');
+                    url('../img/bg-manha.jpg');
 }
+/* Tema usado para desejar BOA TARDE */
 .tarde {
   background-image: linear-gradient(to bottom, 
                     rgba(247, 143, 0, 0.8),
                     rgba(0,0,0, 0.6)),
-                    url('assets/img/bg-tarde.jpg');
+                    url('../img/bg-tarde.jpg');
 }
+/* Tema usado para desejar BOA NOITE */
 .noite {
   background-image: linear-gradient(to bottom, 
                     rgba(114, 58, 181, 0.8),
                     rgba(0,0,0, 0.6)),
-                    url('assets/img/bg-noite.jpg');
+                    url('../img/bg-noite.jpg');
 }
+/* Tema usado para desejar BOA MADRUGADA */
 .madrugada {
   background-image: linear-gradient(to bottom, 
                     rgba(16, 33, 165, 0.8),
                     rgba(0,0,0, 0.6)),
-                    url('assets/img/bg-madrugada.jpg');
+                    url('../img/bg-madrugada.jpg');
 }
 .container {
   margin: 0 auto;
@@ -61,8 +69,10 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+/* Carrega nosso sprite com todos os icones possíveis */
 .icondia {
-  background: url('assets/img/dia-e-noite-sprites.png');
+  background: url('../img/dia-e-noite-sprites.png');
   background-position: 0px 80px;
   width: 80px;
   height: 80px;
