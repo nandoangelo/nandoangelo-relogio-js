@@ -107,8 +107,8 @@ footer {
 .fa:hover {
   transition: all 0.35s ease-out;
 }
-.fa-facebook:hover,
-.fa-facebook:focus  { 
+.fa-github:hover,
+.fa-github:focus  { 
   background-color: #3B5998;
   border-color: #3B5998;
 }
