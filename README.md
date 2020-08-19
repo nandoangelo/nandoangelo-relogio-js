@@ -8,6 +8,6 @@ _Versão vista em aula_
 ![Relógio JavaScript do Nando Angelo](https://user-images.githubusercontent.com/4001408/90575765-83be8f00-e192-11ea-9a5e-68bf01e68cea.png "Minha versão")  
 _Minha versão_  
 
-Tomei a liberdade de aprimorar o projeto adicionando fontes personalizadas, um contador em tempo real (baseado no relógio do sistema) e temas que alteram a imagem de fundo, ícones e cores do relógio de acordo com o momento e a saudação mostrada. [Confira!](https://nandoangelo.github.io/nandoangelo-relogio-js/ "Veja como ficou meu relógio")  
+Tomei a liberdade de aprimorar o projeto adicionando fontes personalizadas, um contador em tempo real (baseado no relógio do sistema) e temas que alteram a imagem de fundo, ícones e cores do relógio de acordo com o momento e a saudação mostrada. [👉🏼 Veja como ficou.](https://nandoangelo.github.io/nandoangelo-relogio-js/ "Veja como ficou meu relógio")  
 
 _Confira os comentários do código_
